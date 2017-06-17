@@ -1,5 +1,5 @@
 # GraphQL-js
-Just for fun. Javascript implementation of [GrapQL](http://graphql.org/learn/)
+Just for fun. Javascript implementation of [GraphQL](http://graphql.org/learn/)
 
 ## Download and Install Dependencies
 Clone repository and install dependencies with [yarn](https://yarnpkg.com/lang/en/):
